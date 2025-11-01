@@ -2,3 +2,5 @@
 "# django-polls-tutorial-" 
 "# Django Polls Tutorial Project" 
 "# Django Polls Tutorial Project" 
+"# django-tutorial" 
+"# django-tutorial" 
